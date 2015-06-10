@@ -12,7 +12,7 @@ setup(
     test_suite="tests",
     entry_points={
         'console_scripts': [
-            'specipy=bin.specipy:parse',
+            'specipy=bin.specipy_cli:parse',
         ],
     },
 )
