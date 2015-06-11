@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/oarrabi/specipy.svg)](https://travis-ci.org/oarrabi/specipy)
+
 # Specipy
 
 Ever wanted to check how your Kiwi specs would read out loud, or you wanted to share your spec with your teammates.   
