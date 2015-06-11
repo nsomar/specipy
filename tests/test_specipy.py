@@ -2,8 +2,7 @@ __author__ = 'omarsubhiabdelhafith'
 
 import unittest
 import os
-from specipy.SpecParser import SpecParser
-from specipy.SpecElements import BaseDecorator
+from specipy import *
 
 
 class SpecipyTests(unittest.TestCase):

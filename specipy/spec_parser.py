@@ -1,7 +1,7 @@
 __author__ = 'omarsubhiabdelhafith'
 
 import re
-from SpecElements import *
+from .spec_element import *
 
 
 class SpecParser(object):
